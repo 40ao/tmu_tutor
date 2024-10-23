@@ -1,7 +1,5 @@
 # tmu_tutor
 
-import sys
+何か入力してください
 
-print("何か入力してください")
-i=input()
-print(f"p")
+nanikanyuuryokusitkudasai
